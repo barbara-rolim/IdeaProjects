@@ -1,0 +1,7 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™ë‘
+N
+java:S1117"8Rename "word" which hides the field declared at line 10.(ÛŠÙš
+C
+java:S1068
+"(Remove this unused "word" private field.(„¸Øãÿÿÿÿÿ

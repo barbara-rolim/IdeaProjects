@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÓ»Û
+N
+java:S1172"3Remove this unused method parameter "batteryLevel".(áóÏøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ä÷Ş”
+E	java:S106"+Replace this use of System.out by a logger.(ş£ï£üÿÿÿÿ

@@ -1,0 +1,8 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏñÈÔÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àÅÏ¾
+g
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(ôœ¶æþÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ä²‰ôüÿÿÿÿ

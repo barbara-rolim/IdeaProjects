@@ -1,0 +1,19 @@
+
+`	java:S112:"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112B"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ¾èi
+e
+java:S2095"JUse try-with-resources or close this "ServerSocket" in a "finally" clause.(íîÁ¿ùÿÿÿÿ
+h
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(è¨ŠÔûÿÿÿÿ
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(§Ýóûûÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(¶¯™ùÿÿÿÿ
+E	java:S106V"+Replace this use of System.out by a logger.(‡«œ°ûÿÿÿÿ
+@	java:S106["+Replace this use of System.out by a logger.(ž¢“
+E	java:S106c"+Replace this use of System.out by a logger.(¢‘ñðýÿÿÿÿ
+A
+java:S3398%"&Move this method into "ClientHandler".(ÚùñÜÿÿÿÿÿ
+<
+java:S3398!"&Move this method into "ClientHandler".(¡ãë´

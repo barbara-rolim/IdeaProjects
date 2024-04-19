@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…îÛ×
+r
+java:S1450"\Remove the "accountNumber" field and declare it as a local variable in the relevant methods.(Å„ÕØ
+@	java:S106"+Replace this use of System.out by a logger.(Ã’¿‰
+G
+java:S1068"1Remove this unused "accountNumber" private field.(Å„ÕØ
+I
+java:S1068".Remove this unused "customerId" private field.(ÚŸçðÿÿÿÿÿ
+@
+java:S1068"*Remove this unused "amount" private field.(²øá€

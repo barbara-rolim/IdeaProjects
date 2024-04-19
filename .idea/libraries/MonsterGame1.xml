@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MonsterGame1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mindswap/out/production/mindswap/MonsterGame/MonsterGame.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
